@@ -22,7 +22,7 @@ bash install_libs.sh
 ```
 bash run.sh
 ```
-![screenshot](/assets/scot_screenshot.png?raw=true "screenshot")
+![screenshot](./assets/cot_screenshot.png?raw=true "screenshot")
 
 ## Benefits
 MRKL systems enjoy important benefits when compared to fine-tuned multi-task models:
