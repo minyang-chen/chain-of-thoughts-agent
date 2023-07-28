@@ -13,7 +13,16 @@ Chain of Thoughts is a MRKL system - a modular, neuro-symbolic architecture that
 download: https://raw.githubusercontent.com/lerocha/chinook-database/master/ChinookDatabase/DataSources/Chinook_Sqlite.sql
 sqlite3 Chinook.db
 .read Chinook_Sqlite.sql
+
+# install libs
+bash install_libs.sh
+
 ```
+## Run it locally
+```
+bash run.sh
+```
+
 ## Benefits
 MRKL systems enjoy important benefits when compared to fine-tuned multi-task models:
 
