@@ -27,7 +27,7 @@ MRKL systems enjoy important benefits when compared to fine-tuned multi-task mod
 Useful Links 🔗
 (research paper: MRKL SystemsDocumentation https://arxiv.org/pdf/2205.00445.pdf)
 
-## Examples Problems
+## Examples 
 ```
 How many people live in canada as of 2023?
 ```
